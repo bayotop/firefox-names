@@ -1,0 +1,32 @@
+#!/bin/bash
+
+if [ ! -d "$1" ]; then
+    echo "error: path to existing gecko source folder is required"
+    exit 1
+fi
+
+type git >/dev/null 2>&1 || { echo >&2 "error: git is required"; exit 1; }
+
+DIR="$(dirname "$0")"
+GECKO=$1
+DATA=$DIR/data
+SOURCE=$DATA/source
+CLEAN=$DATA/plain
+SUM=$DATA/in.txt
+
+mkdir -p "$SOURCE" 
+mkdir -p "$CLEAN"
+true > "$SUM"
+
+git -C "$GECKO" pull
+find "$1" -type f -name "*Atoms.py" -exec cp {} "$SOURCE" \;
+
+for file in "$SOURCE"/*.py; do
+    OUTPUT=$CLEAN/$(basename "$file" .py).lst 
+
+    basename "$file" >> "$SUM"
+    grep -E -o "Atom\(.+\)" "$file" | cut -d'"' -f4 > "$OUTPUT"
+done
+
+git -C "$DIR" add "$DIR"/*
+git -C "$DIR" commit -m "Update data" && git -C "$DIR" push
