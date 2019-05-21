@@ -834,6 +834,7 @@ onpushsubscriptionchange
 onRadioStateChange
 onreadystatechange
 onrejectionhandled
+onremove
 onrequestprogress
 onresourcetimingbufferfull
 onresponseprogress
