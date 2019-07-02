@@ -259,6 +259,7 @@ data-l10n-id
 data-l10n-args
 data-l10n-attrs
 data-l10n-name
+data-l10n-sync
 data-type
 date-time
 date
