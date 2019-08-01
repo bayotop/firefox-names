@@ -172,6 +172,7 @@ call-template
 canvas
 caption
 caption-box
+capture
 case-order
 cdata-section-elements
 ceiling
@@ -1605,6 +1606,7 @@ csc
 csch
 cs
 csymbol
+csp
 curl
 decimalpoint
 definitionURL
