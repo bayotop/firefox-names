@@ -2,7 +2,6 @@
 
 0
 1
-_moz
 mozframetype
 _moz_abspos
 _moz_activated
@@ -13,7 +12,7 @@ _moz-type
 _moz_dirty
 mozdisallowselectionprint
 moz-do-not-send
-_moz_editor_bogus_node
+moz-forward-container
 _moz_generated_content_before
 _moz_generated_content_after
 _moz_generated_content_marker
@@ -670,7 +669,6 @@ node-set
 noembed
 noframes
 nohref
-noisolation
 nomodule
 nonce
 none
