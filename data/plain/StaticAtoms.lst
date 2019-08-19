@@ -2341,6 +2341,7 @@ CookD
 :-moz-viewport-scroll
 :-moz-anonymous-flex-item
 :-moz-anonymous-grid-item
+:-moz-block-ruby-content
 :-moz-ruby
 :-moz-ruby-base
 :-moz-ruby-base-container
