@@ -276,6 +276,7 @@ default
 default-style
 defer
 del
+deletion
 deprecation
 descendant
 descendant-or-self
@@ -503,6 +504,7 @@ inputmode
 ins
 insertafter
 insertbefore
+insertion
 integer
 integrity
 intersection
