@@ -1236,7 +1236,6 @@ window
 window-target
 windowtype
 with-param
-wizard
 wrap
 x-dns-prefetch-control
 content-security-policy
