@@ -628,7 +628,6 @@ mouseover
 mousethrough
 moz-accessiblecaret
 moz-custom-content-container
-moz-collapsed
 mozGrabber
 -moz-native-anonymous
 mozprivatebrowsing
@@ -1060,7 +1059,6 @@ setter
 shape
 show
 showcaret
-showresizer
 simple
 simp-chinese-formal
 simp-chinese-informal
