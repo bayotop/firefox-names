@@ -631,6 +631,7 @@ moz-accessiblecaret
 moz-custom-content-container
 mozGrabber
 -moz-native-anonymous
+-moz-native-anonymous-no-specificity
 mozprivatebrowsing
 mozResizer
 mozResizingInfo
