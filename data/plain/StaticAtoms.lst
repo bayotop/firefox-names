@@ -1864,7 +1864,6 @@ onDOMWindowFocus
 onFullZoomChange
 onGloballyAutoplayBlocked
 onHiddenPlugin
-onImageContentLoaded
 onMozApplicationManifest
 onMozDOMFullscreen:Entered
 onMozDOMFullscreen:Exit
