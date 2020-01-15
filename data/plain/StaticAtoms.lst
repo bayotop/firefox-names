@@ -708,6 +708,7 @@ onaudioprocess
 onauxclick
 onbeforecopy
 onbeforecut
+onbeforeinput
 onbeforepaste
 onbeforeprint
 onbeforescriptexecute
@@ -2342,7 +2343,6 @@ CookD
 :-moz-focus-outer
 :-moz-math-anonymous
 :-moz-number-wrapper
-:-moz-number-text
 :-moz-number-spin-box
 :-moz-number-spin-up
 :-moz-number-spin-down
