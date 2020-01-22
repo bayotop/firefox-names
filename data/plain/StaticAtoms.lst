@@ -1215,6 +1215,7 @@ vertical
 audio
 video
 viewport
+viewport-fit
 viewport-height
 viewport-initial-scale
 viewport-maximum-scale
