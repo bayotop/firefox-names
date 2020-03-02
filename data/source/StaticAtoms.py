@@ -294,6 +294,8 @@ STATIC_ATOMS = [
     Atom("dateTime", "date-time"),
     Atom("date", "date"),
     Atom("datetime", "datetime"),
+    Atom("datetimeInputBoxWrapper", "datetime-input-box-wrapper"),
+    Atom("datetimeResetButton", "datetime-reset-button"),
     Atom("dd", "dd"),
     Atom("decimal", "decimal"),
     Atom("decimalFormat", "decimal-format"),
@@ -2204,8 +2206,6 @@ STATIC_ATOMS = [
     Atom("DisplayPortBase", "_displayportbase"),
     Atom("forcemessagemanager", "forcemessagemanager"),
     Atom("preloadedState", "preloadedState"),
-    Atom("RecordExecution", "recordExecution"),
-    Atom("ReplayExecution", "replayExecution"),
 
     # windows media query names
     Atom("windows_win7", "windows-win7"),

@@ -264,6 +264,8 @@ data-type
 date-time
 date
 datetime
+datetime-input-box-wrapper
+datetime-reset-button
 dd
 decimal
 decimal-format
@@ -2119,8 +2121,6 @@ _displayportmargins
 _displayportbase
 forcemessagemanager
 preloadedState
-recordExecution
-replayExecution
 windows-win7
 windows-win8
 windows-win10
