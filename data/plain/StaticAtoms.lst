@@ -88,6 +88,7 @@ aria-checked
 aria-controls
 aria-current
 aria-describedby
+aria-description
 aria-disabled
 aria-dropeffect
 aria-expanded
@@ -1119,6 +1120,7 @@ substring
 substring-after
 substring-before
 sub
+suggestion
 sum
 sup
 summary
