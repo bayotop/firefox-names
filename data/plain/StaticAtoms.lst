@@ -2064,6 +2064,7 @@ QuoteNodeProperty
 LabelMouseDownPtProperty
 lockedStyleStates
 apzCallbackTransform
+ApzDisabled
 restylableAnonymousNode
 docLevelNativeAnonymousContent
 PaintRequestTime
