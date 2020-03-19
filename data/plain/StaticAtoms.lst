@@ -71,7 +71,6 @@ and
 animations
 anonid
 anonlocation
-anonymous-div
 any
 any-hover
 any-pointer
@@ -2356,6 +2355,8 @@ CookD
 :-moz-meter-bar
 :placeholder
 :-moz-color-swatch
+:-moz-text-control-editing-root
+:-moz-text-control-preview
 :-moz-oof-placeholder
 :-moz-hframeset-border
 :-moz-vframeset-border
