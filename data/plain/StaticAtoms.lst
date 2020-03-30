@@ -705,7 +705,6 @@ onanimationend
 onanimationiteration
 onanimationstart
 onAppCommand
-onappinstalled
 onaudioprocess
 onauxclick
 onbeforecopy
