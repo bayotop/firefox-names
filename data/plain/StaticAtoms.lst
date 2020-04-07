@@ -718,6 +718,7 @@ onbeforeunload
 onblocked
 onblur
 onbounce
+onboundschange
 onbroadcast
 onbufferedamountlow
 oncached
@@ -776,6 +777,7 @@ onfullscreenerror
 onget
 onhashchange
 oninput
+oninputsourceschange
 oninstall
 oninvalid
 onkeydown
@@ -849,11 +851,15 @@ onresize
 onscroll
 onselect
 onselectionchange
+onselectend
 onselectstart
 onset
 onshippingaddresschange
 onshippingoptionchange
 onshow
+onsqueeze
+onsqueezeend
+onsqueezestart
 onstatechange
 onstorage
 onsubmit
