@@ -1902,7 +1902,6 @@ onUAWidgetSetupOrChange
 onUAWidgetTeardown
 onUnselectedTabHover:Disable
 onUnselectedTabHover:Enable
-onZoomChangeUsingMouseWheel
 onmozshowdropdown
 onmozshowdropdown-sourcetouch
 onprintPreviewUpdate
