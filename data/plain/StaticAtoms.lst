@@ -486,6 +486,8 @@ ignorekeys
 ignoreuserfocus
 image
 image-clicked-point
+imagesizes
+imagesrcset
 img
 implementation
 implements
