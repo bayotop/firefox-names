@@ -2374,6 +2374,7 @@ CookD
 :-moz-color-swatch
 :-moz-text-control-editing-root
 :-moz-text-control-preview
+:file-chooser-button
 :-moz-oof-placeholder
 :-moz-hframeset-border
 :-moz-vframeset-border
