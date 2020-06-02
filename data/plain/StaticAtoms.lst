@@ -61,6 +61,7 @@ allow-same-origin
 allow-scripts
 allowscriptstoclose
 allow-top-navigation
+allow-top-navigation-by-user-activation
 allowuntrusted
 alt
 alternate
