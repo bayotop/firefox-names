@@ -2184,15 +2184,6 @@ Print
 SendMail
 ForwardMail
 ReplyToMail
-mouseWheel
-pixels
-lines
-pages
-scrollbars
-other
-apz
-restore
-relative
 alert
 alertdialog
 application
