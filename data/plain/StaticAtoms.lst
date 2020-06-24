@@ -380,6 +380,7 @@ encoding
 enctype
 end
 endEvent
+enterkeyhint
 equalsize
 error
 ethiopic-numeric
