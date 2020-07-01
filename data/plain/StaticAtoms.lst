@@ -960,6 +960,7 @@ preceding
 preceding-sibling
 prefers-reduced-motion
 prefers-color-scheme
+prefers-contrast
 prefix
 preload
 mozpresentation
