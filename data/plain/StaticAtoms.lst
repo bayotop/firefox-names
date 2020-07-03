@@ -2286,6 +2286,7 @@ onnomatch
 onresume
 onmark
 onboundary
+onpositionstatechange
 onsupportedkeyschange
 usercontextid
 geckoViewSessionContextId
