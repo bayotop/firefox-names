@@ -2354,7 +2354,6 @@ CookD
 :selection
 :-moz-focus-inner
 :-moz-focus-outer
-:-moz-math-anonymous
 :-moz-number-wrapper
 :-moz-number-spin-box
 :-moz-number-spin-up
