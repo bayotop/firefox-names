@@ -2354,10 +2354,11 @@ CookD
 :selection
 :-moz-focus-inner
 :-moz-focus-outer
-:-moz-number-wrapper
+:-moz-complex-control-wrapper
 :-moz-number-spin-box
 :-moz-number-spin-up
 :-moz-number-spin-down
+:-moz-search-clear-button
 :-moz-progress-bar
 :-moz-range-track
 :-moz-range-progress
