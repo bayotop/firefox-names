@@ -46,6 +46,7 @@ alink
 all
 allow
 allowdirs
+allow-downloads
 allowevents
 allow-forms
 allowfullscreen
@@ -501,6 +502,7 @@ increment
 indent
 indeterminate
 index
+inert
 infinity
 inherits
 inherit-overflow
