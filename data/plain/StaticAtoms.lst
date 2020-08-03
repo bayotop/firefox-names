@@ -2287,6 +2287,8 @@ onnomatch
 onresume
 onmark
 onboundary
+onactivated
+ondeactivated
 onpositionstatechange
 onsupportedkeyschange
 usercontextid
