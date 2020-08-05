@@ -2403,6 +2403,7 @@ CookD
 :-moz-page
 :-moz-pagecontent
 :-moz-page-sequence
+:-moz-printed-sheet
 :-moz-scrolled-content
 :-moz-scrolled-canvas
 :-moz-scrolled-page-sequence
