@@ -7,7 +7,6 @@ _moz_abspos
 _moz_activated
 _moz_anonclass
 _moz_resizing
-mozallowfullscreen
 _moz-type
 _moz_dirty
 mozdisallowselectionprint
@@ -2135,6 +2134,7 @@ _displayportmargins
 _displayportbase
 forcemessagemanager
 preloadedState
+initialBrowsingContextGroupId
 windows-win7
 windows-win8
 windows-win10
