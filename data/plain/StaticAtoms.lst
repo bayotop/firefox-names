@@ -1050,7 +1050,6 @@ screen
 screenX
 screenY
 script
-scriptEnabledBeforePrintOrPreview
 scrollbar
 scrollbar-thumb
 scrollamount
