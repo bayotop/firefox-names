@@ -2289,6 +2289,8 @@ onmark
 onboundary
 onactivated
 ondeactivated
+onmetadatachange
+onplaybackstatechange
 onpositionstatechange
 onsupportedkeyschange
 usercontextid
