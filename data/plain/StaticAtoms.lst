@@ -126,6 +126,7 @@ attribute
 attributes
 attribute-set
 auto
+autocapitalize
 autocheck
 autocomplete
 autocomplete-richlistbox
