@@ -52,7 +52,6 @@ allow-forms
 allowfullscreen
 allow-modals
 allow-orientation-lock
-allowpaymentrequest
 allow-pointer-lock
 allow-popups-to-escape-sandbox
 allow-popups
@@ -1429,10 +1428,7 @@ multiply
 objectBoundingBox
 offset
 onSVGLoad
-onSVGResize
 onSVGScroll
-onSVGUnload
-onSVGZoom
 onzoom
 opacity
 operator
@@ -2154,7 +2150,6 @@ windows-win10
 -moz-windows-classic
 -moz-windows-glass
 -moz-os-version
--moz-touch-enabled
 -moz-menubar-drag
 -moz-device-pixel-ratio
 -moz-device-orientation
