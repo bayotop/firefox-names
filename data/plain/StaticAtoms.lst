@@ -2130,7 +2130,7 @@ windows-win10
 -moz-overlay-scrollbars
 -moz-windows-default-theme
 -moz-mac-graphite-theme
--moz-mac-yosemite-theme
+-moz-mac-big-sur-theme
 -moz-windows-compositor
 -moz-windows-classic
 -moz-windows-glass
@@ -2189,6 +2189,7 @@ aria-rowindex
 aria-rowindextext
 aria-rowspan
 aria-valuetext
+assertive
 auto-generated
 banner
 checkable
