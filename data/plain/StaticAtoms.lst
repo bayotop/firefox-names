@@ -2343,7 +2343,6 @@ CookD
 :first-line
 :selection
 :-moz-focus-inner
-:-moz-focus-outer
 :-moz-number-spin-box
 :-moz-number-spin-up
 :-moz-number-spin-down
