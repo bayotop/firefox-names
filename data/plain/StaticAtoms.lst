@@ -813,8 +813,6 @@ onmouseup
 onMozAfterPaint
 onmozfullscreenchange
 onmozfullscreenerror
-onmozkeydownonplugin
-onmozkeyuponplugin
 onmozpointerlockchange
 onmozpointerlockerror
 onMozMousePixelScroll
