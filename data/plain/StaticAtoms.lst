@@ -2130,6 +2130,7 @@ remoteType
 _displayport
 _displayportmargins
 _displayportbase
+_minimaldisplayport
 forcemessagemanager
 preloadedState
 initialBrowsingContextGroupId
