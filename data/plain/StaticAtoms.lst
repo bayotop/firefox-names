@@ -170,7 +170,6 @@ br
 browser
 mozbrowser
 button
-brighttitlebarforeground
 call-template
 canvas
 caption
@@ -405,6 +404,7 @@ file
 figcaption
 figure
 findbar
+first-input
 fixed
 flags
 flex
@@ -924,6 +924,7 @@ p
 pack
 page
 pageincrement
+paint
 paint-order
 panel
 paragraph
@@ -2380,7 +2381,10 @@ CookD
 :-moz-frameset-blank
 :-moz-table-column-group
 :-moz-table-column
-:-moz-pagebreak
+:-moz-page
+:-moz-page-break
+:-moz-page-content
+:-moz-printed-sheet
 :-moz-column-span-wrapper
 :-moz-text
 :-moz-first-letter-continuation
@@ -2401,10 +2405,7 @@ CookD
 :-moz-table-row-group
 :-moz-table-row
 :-moz-canvas
-:-moz-page
-:-moz-pagecontent
 :-moz-page-sequence
-:-moz-printed-sheet
 :-moz-scrolled-content
 :-moz-scrolled-canvas
 :-moz-scrolled-page-sequence
