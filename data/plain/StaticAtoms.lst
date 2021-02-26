@@ -70,6 +70,7 @@ always
 ancestor
 ancestor-or-self
 anchor
+anchortoclosest
 and
 animations
 anonid
