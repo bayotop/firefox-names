@@ -2361,7 +2361,6 @@ CookD
 :first-line
 :selection
 :-moz-focus-inner
-:-moz-complex-control-wrapper
 :-moz-number-spin-box
 :-moz-number-spin-up
 :-moz-number-spin-down
