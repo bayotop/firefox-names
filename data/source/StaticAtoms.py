@@ -997,7 +997,6 @@ STATIC_ATOMS = [
     Atom("prefersContrast", "prefers-contrast"),
     Atom("prefix", "prefix"),
     Atom("preload", "preload"),
-    Atom("mozpresentation", "mozpresentation"),
     Atom("preserve", "preserve"),
     Atom("preserveSpace", "preserve-space"),
     Atom("preventdefault", "preventdefault"),
@@ -1886,9 +1885,7 @@ STATIC_ATOMS = [
     Atom("ondevicemotion", "ondevicemotion"),
     Atom("ondeviceorientation", "ondeviceorientation"),
     Atom("onabsolutedeviceorientation", "onabsolutedeviceorientation"),
-    Atom("ondeviceproximity", "ondeviceproximity"),
     Atom("onmozorientationchange", "onmozorientationchange"),
-    Atom("onuserproximity", "onuserproximity"),
     # light sensor support
     Atom("ondevicelight", "ondevicelight"),
     # MediaDevices device change event
@@ -2479,7 +2476,6 @@ STATIC_ATOMS = [
     InheritingAnonBoxAtom("AnonBox_pageSequence", ":-moz-page-sequence"),
     InheritingAnonBoxAtom("AnonBox_scrolledContent", ":-moz-scrolled-content"),
     InheritingAnonBoxAtom("AnonBox_scrolledCanvas", ":-moz-scrolled-canvas"),
-    InheritingAnonBoxAtom("AnonBox_scrolledPageSequence", ":-moz-scrolled-page-sequence"),
     InheritingAnonBoxAtom("AnonBox_columnSet", ":-moz-column-set"),
     InheritingAnonBoxAtom("AnonBox_columnContent", ":-moz-column-content"),
     InheritingAnonBoxAtom("AnonBox_viewport", ":-moz-viewport"),
