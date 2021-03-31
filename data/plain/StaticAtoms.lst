@@ -1853,6 +1853,7 @@ ondevicemotion
 ondeviceorientation
 onabsolutedeviceorientation
 onmozorientationchange
+onuserproximity
 ondevicelight
 ondevicechange
 onmozvisualresize
