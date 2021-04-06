@@ -2164,6 +2164,13 @@ windows-win10
 -moz-gtk-csd-maximize-button
 -moz-gtk-csd-close-button
 -moz-gtk-csd-reversed-placement
+-moz-proton
+-moz-proton-contextmenus
+-moz-proton-urlbar
+-moz-proton-doorhangers
+-moz-proton-modals
+-moz-proton-infobars
+-moz-proton-places-tooltip
 -moz-system-dark-theme
 Back
 Forward
