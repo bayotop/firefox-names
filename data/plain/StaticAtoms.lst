@@ -1878,7 +1878,6 @@ onDOMWindowCreated
 onDOMWindowFocus
 onFullZoomChange
 onGloballyAutoplayBlocked
-onHiddenPlugin
 onMozApplicationManifest
 onMozDOMFullscreen:Entered
 onMozDOMFullscreen:Exit
@@ -1892,11 +1891,7 @@ onMozLocalStorageChanged
 onMozOpenDateTimePicker
 onMozSessionStorageChanged
 onMozTogglePictureInPicture
-onPluginBindingAttached
 onPluginCrashed
-onPluginInstantiated
-onPluginOutdated
-onPluginRemoved
 onPrintingError
 onTextZoomChange
 onUAWidgetSetupOrChange
