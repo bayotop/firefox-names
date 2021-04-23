@@ -269,6 +269,7 @@ data-type
 date-time
 date
 datetime
+datetime-local
 datetime-input-box-wrapper
 datetime-reset-button
 dd
