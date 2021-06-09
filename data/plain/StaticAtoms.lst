@@ -1914,6 +1914,7 @@ http
 https
 proxy
 internal:privateBrowsingAllowed
+internal:svgContextPropertiesAllowed
 decimal-leading-zero
 arabic-indic
 armenian
@@ -2146,6 +2147,7 @@ windows-win10
 -moz-windows-compositor
 -moz-windows-classic
 -moz-windows-glass
+-moz-windows-non-native-menus
 -moz-os-version
 -moz-menubar-drag
 -moz-device-pixel-ratio
@@ -2160,8 +2162,6 @@ windows-win10
 -moz-gtk-csd-close-button
 -moz-gtk-csd-reversed-placement
 -moz-proton
--moz-proton-contextmenus
--moz-proton-doorhangers
 -moz-proton-modals
 -moz-proton-places-tooltip
 -moz-toolbar-prefers-color-scheme
