@@ -194,6 +194,7 @@ checked
 child
 children
 childList
+child-item-count
 choose
 chromemargin
 exposeToUntrustedContent
@@ -392,6 +393,7 @@ event
 events
 exclude-result-prefixes
 exportparts
+explicit-name
 extends
 extension-element-prefixes
 face
@@ -553,6 +555,7 @@ language
 last
 layer
 LayerActivity
+layout-guess
 leading
 leaf
 left
@@ -1368,6 +1371,7 @@ font-size-adjust
 font-stretch
 font-style
 font-variant
+formatting
 foreignObject
 fractalNoise
 fr
@@ -2231,7 +2235,6 @@ hitregion
 inline
 invalid
 line-number
-live
 menuitemcheckbox
 menuitemradio
 mixed
