@@ -18,6 +18,7 @@ _moz_generated_content_marker
 _moz_generated_content_image
 _moz_quote
 moz-signature
+-moz-bullet-font
 -moz-is-glyph
 _moz_original_size
 -moz-print-preview
@@ -2166,7 +2167,6 @@ windows-win10
 -moz-gtk-csd-close-button
 -moz-gtk-csd-reversed-placement
 -moz-proton
--moz-proton-modals
 -moz-proton-places-tooltip
 -moz-toolbar-prefers-color-scheme
 -moz-system-dark-theme
